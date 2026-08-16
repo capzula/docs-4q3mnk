@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sti4sp.nuansa138win.site/sitemap.xml
